@@ -1,5 +1,7 @@
 # Text-Project2
 Homework
+
+
 function preload(){
   jfont=loadFont("Font/coolfont.ttf");
 }
